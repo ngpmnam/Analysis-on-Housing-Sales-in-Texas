@@ -12,7 +12,7 @@ The [**txhousing dataset**](https://ggplot2.tidyverse.org/reference/txhousing.ht
 - **Analyze growth trends** in housing sales across Texas cities.
 - **Provide insights** on differences between median and mean house prices in 2000 and 2015.
 - **Help potential buyers** make data-driven decisions by investigating the relationship between active listings and house prices (both mean and median).
-- **Present** findings and **recommend** actionable insights to potential buyers through a [**targeted report**](https://github.com/ngpmnam/Analysis-on-Housing-Sales-in-Texas).
+- **Present** findings and **recommend** actionable insights to potential buyers through a [**targeted report**](https://github.com/ngpmnam/Analysis-on-Housing-Sales-in-Texas/blob/main/Recommendation%20Report.pdf).
 
 ## Key Takeaways
 - **Data manipulation** using the **dplyr** package in R and the **lag** function to track price changes over time.
