@@ -14,7 +14,7 @@ The [**txhousing dataset**](https://ggplot2.tidyverse.org/reference/txhousing.ht
 - **Help potential buyers** make data-driven decisions by investigating the relationship between active listings and house prices (both mean and median).
 - **Present** findings and **recommend** actionable insights to potential buyers through a [**targeted report**](https://github.com/ngpmnam/Analysis-on-Housing-Sales-in-Texas/blob/main/Recommendation%20Report.pdf).
 
-## Key Takeaways
+## Key Components
 - **Data manipulation** using the **dplyr** package in R and the **lag** function to track price changes over time.
 - **Data visualization** with **ggplot2** to highlight growth trends and illustrate the distribution of housing prices across different cities.
 
